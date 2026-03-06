@@ -1,0 +1,52 @@
+/* Background */
+
+.stApp {
+    background: linear-gradient(135deg, #0f172a, #020617);
+    color: white;
+}
+
+/* Card UI */
+
+.card {
+    background: #1e293b;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0px 10px 25px rgba(0,0,0,0.4);
+}
+
+/* Skill badge */
+
+.skill-badge {
+    background: #16a34a;
+    padding: 6px 10px;
+    border-radius: 8px;
+    color: white;
+    display: inline-block;
+    margin: 4px;
+    font-size: 14px;
+}
+
+/* Button */
+
+.stButton>button {
+    background: linear-gradient(90deg,#3b82f6,#22c55e);
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+
+/* Metric cards */
+
+[data-testid="metric-container"] {
+    background: #1e293b;
+    border-radius: 12px;
+    padding: 10px;
+}
+
+/* Headers */
+
+h1, h2, h3 {
+    color: #f8fafc;
+}
