@@ -21,6 +21,7 @@ An AI-powered Applicant Tracking System (ATS) analyzer that evaluates how well a
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ## Output
 <img width="898" height="405" alt="Screenshot 2026-03-10 120932" src="https://github.com/user-attachments/assets/9d9876d9-0d55-44d1-bca9-3a7ec00ea989" />
